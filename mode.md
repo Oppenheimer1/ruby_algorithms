@@ -1,5 +1,5 @@
 # Array Product
-#### This function takes an array as input and returns the mode of the numbers.
+#### This method takes an array as input and returns the mode of the numbers.
 ```
 def mode(array)     
 x = Hash.new(0)   		  

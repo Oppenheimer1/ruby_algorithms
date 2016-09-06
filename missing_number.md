@@ -1,5 +1,5 @@
 # Array Product
-#### This function returns the number missing in a list of sequential numbers from 1 to 10,000.
+#### This method returns the number missing in a list of sequential numbers from 1 to 10,000.
 ```
 def find_missing_number(string)
   string_sum = 0

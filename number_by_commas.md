@@ -1,5 +1,5 @@
 # Number by Commas
-#### This function takes a number and adds commas to make the number more readable if the number is greater then 999.
+#### This method takes a number and adds commas to make the number more readable if the number is greater then 999.
 ```
 def add_comma(number)
   if number >= 1000000

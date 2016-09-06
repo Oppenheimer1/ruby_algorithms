@@ -1,5 +1,5 @@
 # Fibonacci
-#### This function takes a number and determines if it is part of the Fibonacci Sequence.
+#### This method takes a number and determines if it is part of the Fibonacci Sequence.
 ```
 def is_fibonacci?(x, y = 0, z = 1) 
     if (x == y || x == z)

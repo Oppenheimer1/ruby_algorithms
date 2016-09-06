@@ -1,5 +1,5 @@
 # Boggle Board
-#### This function taks a string and converts it so that all the words are converted to lowercase words and are joined by dashes.
+#### This Class taks a string and converts it so that all the words are converted to lowercase words and are joined by dashes.
 ```
 class BoggleBoard
   

@@ -1,5 +1,5 @@
 # Array Odd Product
-#### This function takes an array as input and returns the product of all the odd numbers in the array.
+#### This method takes an array as input and returns the product of all the odd numbers in the array.
 ```
 def calculate_product(array)
     if array.length == 0

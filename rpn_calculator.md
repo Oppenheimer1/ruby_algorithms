@@ -1,5 +1,5 @@
 # Array Odd Product
-#### This function takes valid RPN input and calculates the answer.
+#### This method takes valid RPN input and calculates the answer.
 ```
 class Calculator
   def calculate(rpn)

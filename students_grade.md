@@ -1,5 +1,5 @@
 # Students Grades
-#### This function takes an array of student grades as input in the form of numbers and returns the letter grade.
+#### This method takes an array of student grades as input in the form of numbers and returns the letter grade.
 ```
 def student_grade(array)
 sum =  array.inject{|total,n| total + n }

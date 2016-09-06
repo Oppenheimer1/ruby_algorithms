@@ -1,5 +1,5 @@
 # Decipher
-#### This function takes an encrypted message and deciphers it.
+#### This method takes an encrypted message and deciphers it.
 ```
 def decipher(coded_message)
     x = coded_message.gsub(/\@|\#|\$|\%|\^|\&|\*/, ' ')
