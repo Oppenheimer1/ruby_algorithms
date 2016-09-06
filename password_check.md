@@ -1,5 +1,5 @@
 # String Test
-#### This method accepts a string as a password and returns true if the string is between 6 and 20 characters long, contains at least one capital letter and contains at least one number or one of the following special characters("!, @, #, $, %, &, *, +, :, ?").
+#### This method accepts a string as a password and checks to see if the string is between 6 and 20 characters long, contains at least one capital letter and contains at least one number or one of the following special characters("!, @, #, $, %, &, *, +, :, ?").
 ```
  def password_check(valid_password)
   if valid_password !~ (/^(?=.{6,20}$)/)
