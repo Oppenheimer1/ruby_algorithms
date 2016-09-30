@@ -1,5 +1,5 @@
 # Encode
-#### This method accepts signed integer in the 14-bit range [-8192..+8191] and returns a 4 character string.
+#### This method accepts a signed integer in the 14-bit range [-8192..+8191] and returns a 4 character string.
 ```
 def encode(i)
    i = i + 8192

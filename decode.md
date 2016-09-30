@@ -1,5 +1,5 @@
 # Decode
-#### This method accepts two bytes on input, both in the range [0x00..0x7F] and recombine them to return the corresponding integer between [-8192..+8191]
+#### This method accepts two bytes on input, both in the range [0x00..0x7F] and recombines them to return the corresponding integer between [-8192..+8191]
 ```
 def decode(n)
    x = n.to_s
